@@ -1,0 +1,16 @@
+{
+  "http": {
+    "timeout": 10,
+    "max_retries": 2,
+    "user_agent": "dealroom-scraper/1.0 (+https://bitbash.dev)"
+  },
+  "crawler": {
+    "dealroom_base_url": "https://app.dealroom.co/companies",
+    "concurrency": 4,
+    "sleep_between_requests": 0.5
+  },
+  "paths": {
+    "input_domains": "data/input_domains.txt",
+    "output_file": "data/output_sample.json"
+  }
+}
