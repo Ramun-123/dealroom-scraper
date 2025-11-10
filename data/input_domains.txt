@@ -1,0 +1,6 @@
+# Each line can be:
+# - A full Dealroom company URL
+# - A plain company website URL
+# - A Dealroom company slug (in which case it will be appended to the base URL)
+
+https://app.dealroom.co/companies/vibe_ctv_ott
