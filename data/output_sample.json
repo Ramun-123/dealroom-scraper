@@ -1,0 +1,39 @@
+[
+  {
+    "about": "Vibe.co is a digital advertising platform that specializes in streaming apps and TV channels.",
+    "company_status": "operational",
+    "growth_stage": "late growth",
+    "employees": "51-200",
+    "industries": [
+      "marketing",
+      "adtech"
+    ],
+    "funding_rounds": [
+      {
+        "year": 2024,
+        "round": "SERIES A",
+        "amount": 22.5,
+        "currency": "USD",
+        "investors": [
+          "Elaia Partners"
+        ]
+      }
+    ],
+    "investors": [
+      {
+        "name": "Elaia Partners",
+        "type": "fund",
+        "path": "elaia_partners"
+      }
+    ],
+    "hq_locations": [
+      {
+        "address": "Chicago, Cook County, Illinois, United States",
+        "country": "United States"
+      }
+    ],
+    "website_url": "http://vibe.co",
+    "linkedin_url": "https://www.linkedin.com/company/vibe-ctv-ott/",
+    "twitter_url": "https://twitter.com/vibe_ads"
+  }
+]
